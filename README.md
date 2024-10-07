@@ -31,7 +31,8 @@ First, enable IIS in Windows and check the box for CGI under World Wide Web Serv
 </p>
 <br />
 
-![image](https://github.com/user-attachments/assets/cde2b420-0996-4e36-b67f-00a0ad1dc0e7)
+![image](https://github.com/user-attachments/assets/f22d4448-b57a-4a8f-b779-bb3f9a7b3852)
+
 ![MySQL](https://github.com/user-attachments/assets/4b17d6d4-e555-49b5-bea1-964746281f7a)
 <p>
   The first step is to click on the MySQL file to download it. After that, I followed the prompts by selecting "Typical" and then clicking "Next" until the installation was complete.
