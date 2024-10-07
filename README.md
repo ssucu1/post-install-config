@@ -44,7 +44,7 @@ I created a new folder named "PHP" on the C: drive in Windows. Next, I started t
 ![image](https://github.com/user-attachments/assets/b3cd7f09-81b9-4b41-9db5-4924130d5904)
 
 <p>
-To install osTicket v1.15.8, unzip "osTicket-v1.15.8.zip" from the "osTicket-Installation-Files" folder, and copy the "upload" folder to "C:\inetpub\wwwroot." Then, rename the "upload" folder to "osTicket."
+On the last step to install osTicket v1.15.8, unzip "osTicket-v1.15.8.zip" from the "osTicket-Installation-Files" folder, and copy the "upload" folder to "C:\inetpub\wwwroot." Then, rename the "upload" folder to "osTicket."
 
 Finally, reload IIS by opening it, stopping the server, and then starting it again.
 </p>
