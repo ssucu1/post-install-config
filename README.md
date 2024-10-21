@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p style="backgorund-color: yellow;">
+<p style="background-color: yellow;">
 Configure Roles (for grouping permissions)
 Admin Panel -> Agents -> Roles
 Supreme Admin
