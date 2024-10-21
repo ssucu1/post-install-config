@@ -30,9 +30,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-
-![image](https://github.com/user-attachments/assets/16999d20-003e-4ec6-b760-af5b473ff168)
-
 <p>
 Configure Roles (for grouping permissions)
 Admin Panel -> Agents -> Roles
@@ -40,7 +37,7 @@ Supreme Admin
 </p>
 <br />
 
-![image](https://github.com/user-attachments/assets/a449912f-e4d2-49f3-b71d-2ba4be81dfb0)
+![image](https://github.com/user-attachments/assets/16999d20-003e-4ec6-b760-af5b473ff168)
 
 <p>
   Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
@@ -49,6 +46,9 @@ SysAdmins
 
 </p>
 <br />
+
+![image](https://github.com/user-attachments/assets/a449912f-e4d2-49f3-b71d-2ba4be81dfb0)
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
