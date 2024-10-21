@@ -62,3 +62,14 @@ Online Banking
 
 </p>
 <br />
+
+<p>
+Configure SLA
+Admin Panel -> Manage -> SLA
+Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+Sev-C (Grace Period: 8 hours, Business Hours)
+</p>
+
+![image](https://github.com/user-attachments/assets/af15b328-bb9d-43b5-8b8a-57431960a588)
+
