@@ -38,6 +38,7 @@ Supreme Admin
 <br />
 
 ![image](https://github.com/user-attachments/assets/16999d20-003e-4ec6-b760-af5b473ff168)
+<br/>
 
 <p>
   Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
