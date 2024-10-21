@@ -49,10 +49,6 @@ SysAdmins
 
 ![image](https://github.com/user-attachments/assets/a449912f-e4d2-49f3-b71d-2ba4be81dfb0)
 
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
   Configure Teams
 Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
@@ -60,6 +56,8 @@ Online Banking
 
 </p>
 <br />
+
+![image](https://github.com/user-attachments/assets/75406841-baa1-495f-9e7b-12f634c0d081)
 
 <p>
 Configure SLA
