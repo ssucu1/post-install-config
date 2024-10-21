@@ -25,7 +25,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 1: Admin Panel Setup
 - Item 2: Create Departments, Teams
 - Item 3: Congfigure Agents (workers)
-- Item 4: Configure SLAS
+- Item 4: Configure SLA
+- Item 5: Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -68,3 +69,6 @@ Sev-C (Grace Period: 8 hours, Business Hours)
 
 ![image](https://github.com/user-attachments/assets/af15b328-bb9d-43b5-8b8a-57431960a588)
 
+<p>
+  
+</p>
