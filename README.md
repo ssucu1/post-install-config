@@ -23,10 +23,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Item 1: Admin Panel Setup
-- Item 2: Create Departments, Teams, and Agents
-- Item 3: Setup Help Topics
-- Item 4: Configure Email Settings
-- Item 5: SLAS and Ticket Auto Response
+- Item 2: Create Departments, Teams
+- Item 3: Congfigure Agents (workers)
+- Item 4: Configure SLAS
 
 <h2>Configuration Steps</h2>
 
