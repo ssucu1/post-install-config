@@ -65,5 +65,16 @@ Sev-C (Grace Period: 8 hours, Business Hours)
 ![image](https://github.com/user-attachments/assets/af15b328-bb9d-43b5-8b8a-57431960a588)
 
 <p>
-  
+  Configure Help Topics (For when users create a ticket)
+Admin Panel -> Manage -> Help Topics
+Business Critical Outage
+Personal Computer Issues
+Equipment Request
+Password Reset
+Other
 </p>
+<br/>
+
+![image](https://github.com/user-attachments/assets/cda4a52d-945b-490f-aa90-d6e5a7712125)
+
+
