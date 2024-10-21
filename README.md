@@ -30,9 +30,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+![image](https://github.com/user-attachments/assets/16999d20-003e-4ec6-b760-af5b473ff168)
+
 <p>
 Configure Roles (for grouping permissions)
 Admin Panel -> Agents -> Roles
